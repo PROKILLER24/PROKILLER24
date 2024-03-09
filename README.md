@@ -1,7 +1,12 @@
 Explain
 <h2 align="left">Hi 👋! My name is  Suyash and I'm a Flutter Developer..</h2>
+<br clear="both">
 
 ###
+
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PROKILLER24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -60,8 +65,4 @@ Explain
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-###
