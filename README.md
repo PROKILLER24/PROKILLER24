@@ -65,15 +65,7 @@ Full Stack Developer | PERN Stack Developer
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROKILLER24&layout=compact&theme=dracula" height="140"/>
 </p>
 
----
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PROKILLER24/PROKILLER24/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
