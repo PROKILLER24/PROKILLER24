@@ -1,20 +1,22 @@
 <h1 align="center">Hi 👋, I'm Suyash Wagade</h1>
-<h3 align="center">Full Stack Developer | JavaScript • Next.js • Backend APIs</h3>
+<h3 align="center">
+Full Stack Developer | PERN Stack Developer 
+</h3>
 
 <p align="center">
-  <a href="https://github.com/PROKILLER24">
-    <img src="https://komarev.com/ghpvc/?username=PROKILLER24&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=PROKILLER24&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer passionate about building scalable web apps  
-- ⚡ Strong in **JavaScript, React, Next.js & REST APIs**
+- 💻 **Full Stack / PERN Stack Developer**
+- ⚡ Strong in **JavaScript, React, Next.js, Node.js & REST APIs**
+- 🐘 Working with **PostgreSQL** for scalable backend systems
+- 🐳 Using **Docker** for containerized development
 - 🧠 Learning **System Design, Kafka & Backend Architecture**
-- 🎯 Goal: Crack a **Product-based company / Strong Startup**
+- 🎯 Goal: Join a **Product-based company or high-growth startup**
 
 ---
 
@@ -36,12 +38,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35"/>
 </p>
 
-### ⚙️ Backend & Tools
+### ⚙️ Backend, DB & DevOps
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35"/>
+</p>
+
+### 🔧 Tools
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35"/>
 </p>
 
 ---
@@ -62,7 +70,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PROKILLER24/PROKILLER24/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/PROKILLER24/PROKILLER24/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -80,4 +88,4 @@
 
 ---
 
-⭐ **If you like my work, consider starring my repositories!**
+⭐ If you like my work, consider starring my repositories!
