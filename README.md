@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Suyash+Wagade;Full+Stack+Developer;PERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full Stack Developer | PERN Stack Expert | Cloud Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | PERN Stack Developer |</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prokiller24&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
@@ -17,12 +17,12 @@
 const suyash = {
     location: "Pune, Maharashtra, India",
     role: "Full Stack Developer",
-    expertise: ["PERN Stack", "REST APIs", "System Design"],
+    expertise: ["PERN Stack", "REST APIs", "React"],
     currentFocus: "Building scalable backend architectures",
     learning: ["Kafka", "Microservices", "AWS"],
     goal: "Join a product-based company or high-growth startup",
     workingOn: "Real-time applications with WebSockets",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    
 };
 ```
 
@@ -103,9 +103,7 @@ const suyash = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
+
 
 <br/>
 
