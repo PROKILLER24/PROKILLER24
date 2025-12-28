@@ -57,12 +57,13 @@ Full Stack Developer | PERN Stack Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PROKILLER24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prokiller24&show_icons=true&theme=dracula" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROKILLER24&layout=compact&theme=dracula" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&theme=dracula" height="140"/>
 </p>
+
 
 
 
