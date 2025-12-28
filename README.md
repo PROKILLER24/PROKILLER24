@@ -63,15 +63,12 @@ const suyash = {
 
 
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&hide_border=true&title_color=F75C7E&text_color=9f9f9f&bg_color=151515&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=prokiller24&hide_border=true&title_color=F75C7E&text_color=9f9f9f&bg_color=151515&custom_title=Coding%20Activity" alt="Wakatime Stats"/>
-</div>
+
 
 ### 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prokiller24&bg_color=151515&color=9f9f9f&line=F75C7E&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 
 
@@ -120,6 +117,6 @@ const suyash = {
   
   ### Show some ❤️ by starring some of my repositories!
   
-  ![Snake animation](https://raw.githubusercontent.com/prokiller24/prokiller24/output/github-contribution-grid-snake-dark.svg)
+
   
 </div>
