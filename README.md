@@ -1,89 +1,136 @@
-<h1 align="center">Hi 👋, I'm Suyash Wagade</h1>
-<h3 align="center">
-Full Stack Developer | PERN Stack Developer
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Suyash+Wagade;Full+Stack+Developer;PERN+Stack+Specialist;Building+Scalable+Solutions" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Full Stack Developer | PERN Stack Expert | Cloud Enthusiast</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prokiller24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=prokiller24&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/prokiller24?label=Followers&style=for-the-badge&color=F75C7E" alt="followers"/>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 **Full Stack / PERN Stack Developer**
-- ⚡ Strong in **JavaScript, React, Next.js, Node.js & REST APIs**
-- 🐘 Working with **PostgreSQL** for scalable backend systems
-- 🐳 Using **Docker** for containerized development
-- 🧠 Learning **System Design, Kafka & Backend Architecture**
-- 🎯 Goal: Join a **Product-based company or high-growth startup**
+```javascript
+const suyash = {
+    location: "Pune, Maharashtra, India",
+    role: "Full Stack Developer",
+    expertise: ["PERN Stack", "REST APIs", "System Design"],
+    currentFocus: "Building scalable backend architectures",
+    learning: ["Kafka", "Microservices", "AWS"],
+    goal: "Join a product-based company or high-growth startup",
+    workingOn: "Real-time applications with WebSockets",
+    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+};
+```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
+<div align="center">
+
+### Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,cs" alt="Languages"/>
 </p>
 
-### 🌐 Frontend
+### Frontend Development
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend, DB & DevOps
+### Backend & Database
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="35" alt="Kafka"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,prisma" alt="Backend"/>
 </p>
 
-### 🔧 Tools
+### DevOps & Tools
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,postman" alt="DevOps"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prokiller24&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F8D866" alt="Contribution Graph" width="90%"/>
+### Learning & Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,kubernetes,aws,graphql" alt="Learning"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prokiller24&theme=radical" alt="Profile Summary" width="90%"/>
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prokiller24&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F8D866&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prokiller24&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=9f9f9f" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&hide_border=true&title_color=F75C7E&text_color=9f9f9f&bg_color=151515&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=prokiller24&hide_border=true&title_color=F75C7E&text_color=9f9f9f&bg_color=151515&custom_title=Coding%20Activity" alt="Wakatime Stats"/>
+</div>
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prokiller24&bg_color=151515&color=9f9f9f&line=F75C7E&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prokiller24&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prokiller24&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📫 Connect With Me
+## 💼 What I'm Working On
 
-<p align="center">
+- 🔭 Building **real-time collaborative applications** with WebSockets
+- 🌱 Learning **Apache Kafka** for event-driven architectures
+- 👯 Looking to collaborate on **open-source PERN stack projects**
+- 💬 Ask me about **React, Node.js, PostgreSQL, Docker**
+- ⚡ Fun fact: **I think debugging is like being a detective in a crime movie where you're also the murderer**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/suyash-wagade-94b17a306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:suyashwagade@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
   </a>
-</p>
+  <a href="https://github.com/prokiller24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <a href="https://twitter.com/prokiller24" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" alt="Twitter"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+</div>
 
 ---
 
-<p align="center">⭐ If you like my work, consider starring my repositories!</p>
+<div align="center">
+  
+  ### Show some ❤️ by starring some of my repositories!
+  
+  ![Snake animation](https://raw.githubusercontent.com/prokiller24/prokiller24/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
