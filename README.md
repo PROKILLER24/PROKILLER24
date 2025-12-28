@@ -2,7 +2,6 @@
 <h3 align="center">
 Full Stack Developer | PERN Stack Developer
 </h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prokiller24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
@@ -57,11 +56,25 @@ Full Stack Developer | PERN Stack Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prokiller24&show_icons=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prokiller24&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prokiller24&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&theme=dracula&hide_border=true" height="140" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prokiller24&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=F8D866" alt="Contribution Graph" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prokiller24&theme=radical" alt="Profile Summary" width="80%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prokiller24&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -79,4 +92,4 @@ Full Stack Developer | PERN Stack Developer
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+<p align="center">⭐ If you like my work, consider starring my repositories!</p>
