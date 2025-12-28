@@ -61,12 +61,7 @@ const suyash = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prokiller24&show_icons=true&count_private=true&hide_border=true&title_color=F75C7E&icon_color=F8D866&text_color=9f9f9f&bg_color=151515" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prokiller24&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakNum=9f9f9f&sideNums=9f9f9f&currStreakLabel=F75C7E&sideLabels=F75C7E&dates=9f9f9f" alt="GitHub Streak"/>
-</div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prokiller24&layout=compact&hide_border=true&title_color=F75C7E&text_color=9f9f9f&bg_color=151515&langs_count=8" alt="Top Languages"/>
@@ -78,11 +73,7 @@ const suyash = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prokiller24&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -121,9 +112,7 @@ const suyash = {
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
-</div>
+
 
 ---
 
