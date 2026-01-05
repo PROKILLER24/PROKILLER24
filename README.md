@@ -5,7 +5,7 @@
 <h3 align="center">🚀 Full Stack Developer | PERN Stack Developer |</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prokiller24&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=suyashwagade&label=Profile%20views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/prokiller24?label=Followers&style=for-the-badge&color=F75C7E" alt="followers"/>
 </p>
 
@@ -66,7 +66,7 @@ const suyash = {
 
 
 ### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prokiller24&bg_color=151515&color=9f9f9f&line=F75C7E&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suyashwagade&bg_color=151515&color=9f9f9f&line=F75C7E&point=F8D866&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
 
 
 
